@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+<EditText
+    android:id="@+id/name_Id"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAppearance="@style/TextAppearance.AppCompat.Large"
+    android:hint="Enter your Name:"
+    android:layout_marginTop="15dp"
+    />
+    <EditText
+        android:id="@+id/age_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:hint="Enter your Age:"
+        android:layout_marginTop="15dp" />
+    <EditText
+        android:id="@+id/dep_Id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:hint="Enter your dep:"
+        android:layout_marginTop="15dp"
+        />
+    <EditText
+        android:id="@+id/cgpa_Id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:hint="Enter your cgpa:"
+        android:layout_marginTop="15dp"
+        />
+    <Button
+        style="@style/Base.Widget.AppCompat.Button.Colored"
+        android:id="@+id/add_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="ADD DATA"
+        android:layout_marginTop="15dp"
+        />
+    <Button
+        style="@style/Base.Widget.AppCompat.Button.Colored"
+        android:id="@+id/DISPLAY_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Display  DATA"
+        android:layout_marginTop="10dp"
+        />
+
+</LinearLayout>

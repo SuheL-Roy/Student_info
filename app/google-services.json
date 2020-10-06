@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "931654366133",
+    "firebase_url": "https://bangladesh-46e13.firebaseio.com",
+    "project_id": "bangladesh-46e13",
+    "storage_bucket": "bangladesh-46e13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931654366133:android:c6d062d908f8d6b6b59ffc",
+        "android_client_info": {
+          "package_name": "com.example.student_info"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931654366133-dg4girqajgoapjn8hr77ertmuksqsrp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ5U3nUeROyBNRYwbuRfTuTyDjjX46jac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931654366133-dg4girqajgoapjn8hr77ertmuksqsrp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
